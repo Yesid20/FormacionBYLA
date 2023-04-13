@@ -5,3 +5,8 @@ En la tarde del wednesday 12 de abril estoy creando,editando y utilizando las ve
 Lo único que espero de mi es perseguir mis sueños. 
 
 De está manera no me fallare, solo me haré feliz. 
+
+La rama header fue creada con fines académicos para entender que la misma carpeta fue subida al repositorio en internet bajo nombres diferentes. 
+
+Desde la rama footer se edita esta linea disponiendo de recursos computacionales para el avance del archivo localmente y luego ser fusionado y subido como una versión. 
+
